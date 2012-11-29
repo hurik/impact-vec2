@@ -23,6 +23,9 @@ Check the vec2.js ...
 * Did you miss a vector operation? Contact me ...
 
 ## Changelog
+#### v1.1.0
+* set(), setNull() and isNull() added
+
 ### v1.0.0
 * first commit
 
